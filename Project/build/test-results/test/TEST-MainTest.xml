@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-18T12:07:06" hostname="razvan-XPS-13-9380" time="0.063">
+  <properties/>
+  <testcase name="rabbitsTest()" classname="MainTest" time="0.029"/>
+  <testcase name="reverseStringTest()" classname="MainTest" time="0.013"/>
+  <testcase name="removeDuplicatesTest()" classname="MainTest" time="0.001"/>
+  <testcase name="printStringsTest()" classname="MainTest" time="0.011"/>
+  <testcase name="dictionaryTest()" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[*********
+* Hello *
+* World *
+* in    *
+* a     *
+* frame *
+*********
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
